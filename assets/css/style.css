@@ -1,0 +1,126 @@
+
+
+
+      p {
+        font-weight: bold;
+      }
+      .wrapper {
+        padding-left: 2.5%;
+        padding-top: 20px;
+        margin: auto;
+        display: relative;
+        background-color: #FF5964;
+        background-color: #FFFFFF;
+        width: 600px;
+        height: 630px;
+      }
+      .header {
+        text-align: center;
+        width: 95%;
+        background-color: #FF5964;
+        background-color: #74B3D5;
+        height: 100px;
+        display: inline-block;
+      }
+      .description {
+        background-color: #F0EBF0;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        width: 93.5%;
+        padding-top: 5px;
+        margin-top: 10px;
+      }
+
+      .randomCompNumberBox {
+        width: 20%;
+        height: 30px;
+        background-color:  #74B3D5;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin-top: 10px;
+        float: left;
+        text-align: center;
+        font-weight: bold;
+        color: white;
+        font-size: 30px;
+      }
+
+      .winsBox {
+        width: 33.5%;
+        height: 30px;
+        background-color:  lightgreen;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin-top: 10px;
+        float: left;
+        margin-left: 10px;
+        text-align: center;
+        font-weight: bold;
+        color: white;
+        font-size: 30px;
+      }
+
+      
+      .lossesBox {
+        width: 33.5%;
+        height: 30px;
+        background-color: #FF5964;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin-top: 10px;
+        float: left;
+        margin-left: 10px;
+        text-align: center;
+        font-weight: bold;
+        color: white;
+        font-size: 30px;
+      }
+
+      .Rupee {
+        float: left;
+        margin-top: 20px;
+        margin-right: 17px;
+      }
+
+      .Rupee:hover {
+        margin-top: 0;
+        cursor: pointer;
+      }
+
+      .playerScore {
+        width: 60%;
+        height: 30px;
+        background-color: purple;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin-top: 10px;
+        text-align: center;
+        font-weight: bold;
+        color: white;
+        font-size: 30px;
+        float: left;
+      }
+
+      .clear {
+        width: 30%;
+        margin-left: 10px;
+        height: 30px;
+        background-color: #FF5964;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin-top: 10px;
+        text-align: center;
+        font-weight: bold;
+        color: white;
+        font-size: 30px;
+        float: left;
+      }
+
+      .clear:hover {
+        cursor: pointer;
+      }
